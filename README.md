@@ -1,7 +1,11 @@
 # Object-Detection-Tutorial
 
 
+# Papers
 [12 Papers You Should Read to Understand Object Detection](https://towardsdatascience.com/12-papers-you-should-read-to-understand-object-detection-in-the-deep-learning-era-3390d4a28891)
+
+
+# Turorials
 
 [Object Detection for Dummies](https://lilianweng.github.io/lil-log/tag/object-detection)
 
@@ -13,6 +17,8 @@
 
 [Object Detection Part 4: Fast Detection Models (27 Dec 2018)](https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)
 
+# Videos
 
+[Introduction to How Faster R-CNN, Fast R-CNN and R-CNN Works](https://www.youtube.com/watch?v=v5bFVbQvFRk&ab_channel=ArdianUmam)
 
 
