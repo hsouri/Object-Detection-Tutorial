@@ -17,6 +17,8 @@
 
 [Object Detection Part 4: Fast Detection Models (27 Dec 2018)](https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)
 
+[R-CNN for object detection*](https://towardsdatascience.com/r-cnn-for-object-detection-a-technical-summary-9e7bfa8a557c)
+
 # Videos
 
 [Introduction to How Faster R-CNN, Fast R-CNN and R-CNN Works](https://www.youtube.com/watch?v=v5bFVbQvFRk&ab_channel=ArdianUmam)
