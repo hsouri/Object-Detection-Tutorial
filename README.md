@@ -9,6 +9,8 @@
 
 [Object Detection for Dummies](https://lilianweng.github.io/lil-log/tag/object-detection)
 
+[Selective Search for Object Recognition](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/UijlingsIJCV2013.pdf)
+
 [Object Detection for Dummies Part 1: Gradient Vector, HOG, and SS (29 Oct 2017)](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)
 
 [Object Detection for Dummies Part 2: CNN, DPM and Overfeat (15 Dec 2017)](https://lilianweng.github.io/lil-log/2017/12/15/object-recognition-for-dummies-part-2.html)
