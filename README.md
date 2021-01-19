@@ -25,6 +25,8 @@
 
 [Faster R-CNN for object detection - A technical paper summary*](https://towardsdatascience.com/faster-r-cnn-for-object-detection-a-technical-summary-474c5b857b46)
 
+[stanford lecture note](http://cs231n.stanford.edu/slides/2016/winter1516_lecture8.pdf)
+
 
 # Videos
 
