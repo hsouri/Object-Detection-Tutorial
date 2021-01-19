@@ -30,6 +30,9 @@
 [Faster R-CNN for object detection - A technical paper summary*](https://towardsdatascience.com/faster-r-cnn-for-object-detection-a-technical-summary-474c5b857b46)
 
 
+[Faster R-CNN: Down the rabbit hole of modern object detection**](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
+
+
 # Videos
 
 [Introduction to How Faster R-CNN, Fast R-CNN and R-CNN Works](https://www.youtube.com/watch?v=v5bFVbQvFRk&ab_channel=ArdianUmam)
