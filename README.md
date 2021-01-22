@@ -32,6 +32,10 @@
 
 [Faster R-CNN: Down the rabbit hole of modern object detection**](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
 
+# Understanding feature maps- non maximal supression and ...
+
+[Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
+
 
 # Videos
 
