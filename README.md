@@ -32,6 +32,8 @@
 
 [Faster R-CNN: Down the rabbit hole of modern object detection**](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)
 
+[Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3*](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
+
 # Understanding SSD - feature maps - Non-Maximum Suppression (NMS) - Hard Negative Mining and ...
 
 [Understanding SSD MultiBox — Real-Time Object Detection In Deep Learning](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab)
